@@ -1,0 +1,20 @@
+h1{
+    font-family: 'Tourney', cursive;  
+}
+h1{
+    font-size:60px;
+     color:chocolate;  
+   }
+   section{
+       display: flex;
+   }
+   .half-width{
+       width:50%;
+   }
+   .link-button{
+       text-decoration: no;
+       background-color: orange;
+       padding: 10px 40px;
+       border-radius: 6px;
+       font-weight: 700;
+   }
