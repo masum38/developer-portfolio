@@ -1,5 +1,5 @@
 h1{
-    font-family: 'Tourney', cursive;  
+    font-family: 'Abril Fatface', cursive; 
 }
 h1{
     font-size:60px;
@@ -7,14 +7,18 @@ h1{
    }
    section{
        display: flex;
+       padding-left: 2%;
    }
    .half-width{
        width:50%;
    }
    .link-button{
-       text-decoration: no;
+       text-decoration: none;
        background-color: orange;
        padding: 10px 40px;
        border-radius: 6px;
        font-weight: 700;
+   }
+   .top-banner{
+       background-image: url(top-banner.png);
    }
